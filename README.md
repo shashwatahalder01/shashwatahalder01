@@ -1,7 +1,7 @@
 ### Hi there . . . !!! 👋
 
 ### This is Shashwata halder, Welcome to my Profile. . .
-<img src="https://github.com/sh-qups/sh-qups/blob/main/images/intro_img/intro_img_1.gif" width=500 hight=200 />
+<img src="https://github.com/sh-qups/sh-qups/blob/main/images/intro_img/intro_img_.gif" width=500 hight=200 />
 <!--
 **sh-qups/sh-qups** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
@@ -25,24 +25,26 @@
 
 ### Languages and Tools:
 
-<img src="https://github.com/marzan-666/marzan-666/blob/main/python.png" width=32 />
-<img src="https://github.com/marzan-666/marzan-666/blob/main/android.png" width=32 />
-<img src="https://github.com/marzan-666/marzan-666/blob/main/c.png" width=32 />
-<img src ="https://github.com/marzan-666/marzan-666/blob/main/java.jpg" width = 32 /> 
-<img src="https://github.com/marzan-666/marzan-666/blob/main/c%2B%2B.png" width=32 />
-<img src="https://github.com/marzan-666/marzan-666/blob/main/js.png" width=32 />
-<img src="https://github.com/marzan-666/marzan-666/blob/main/html.png" width=32 />
-<img src="https://github.com/marzan-666/marzan-666/blob/main/css.png" width=32 />
-<img src="https://github.com/marzan-666/marzan-666/blob/main/php.png" width=32 />
-<img src="https://github.com/marzan-666/marzan-666/blob/main/mysql.png" width=32 /> 
-<img src="https://github.com/marzan-666/marzan-666/blob/main/bootstrap.png" width=32 />
-<img src="https://github.com/marzan-666/marzan-666/blob/main/laravel.jpg" width=32 />
-<img src="https://github.com/marzan-666/marzan-666/blob/main/vscode.png" width=32 />
-<img src="https://github.com/marzan-666/marzan-666/blob/main/Android%20Studio.png" width=32 />
-<img src="https://github.com/marzan-666/marzan-666/blob/main/codeblocks.png" width=32 />
-<img src="https://github.com/marzan-666/marzan-666/blob/main/sublime.jpg" width=32 /> 
-<img src="https://github.com/marzan-666/marzan-666/blob/main/notepad.png" width=32 />
-<img src="https://github.com/marzan-666/marzan-666/blob/main/netbeans.jpg" width=32 />
+<img src="https://github.com/sh-qups/sh-qups/blob/main/images/logo/python.png" width=32 />
+<img src="https://github.com/sh-qups/sh-qups/blob/main/images/logo/python.png" width=32 />
+<img src="https://github.com/sh-qups/sh-qups/blob/main/images/logo/c.png" width=32 />
+<img src="https://github.com/sh-qups/sh-qups/blob/main/images/logo/java.jpg" width = 32 /> 
+<img src="https://github.com/sh-qups/sh-qups/blob/main/images/logo/c%2B%2B.png" width=32 />
+<img src="https://github.com/sh-qups/sh-qups/blob/main/images/logo/js.png" width=32 />
+<img src="https://github.com/sh-qups/sh-qups/blob/main/images/logo/html.png" width=32 />
+<img src="https://github.com/sh-qups/sh-qups/blob/main/images/logo/css.png" width=32 />
+<img src="https://github.com/sh-qups/sh-qups/blob/main/images/logo/php.png" width=32 />
+<img src="https://github.com/sh-qups/sh-qups/blob/main/images/logo/mysql.png" width=32 /> 
+<img src="https://github.com/sh-qups/sh-qups/blob/main/images/logo/bootstrap.png" width=32 />
+<img src="https://github.com/sh-qups/sh-qups/blob/main/images/logo/laravel.jpg" width=32 />
+<img src="https://github.com/sh-qups/sh-qups/blob/main/images/logo/vscode.png" width=32 />
+<img src="https://github.com/sh-qups/sh-qups/blob/main/images/logo/Android%20Studio.png" width=32 />
+<img src="https://github.com/sh-qups/sh-qups/blob/main/images/logo/codeblocks.png" width=32 />
+<img src="https://github.com/sh-qups/sh-qups/blob/main/images/logo/sublime.jpg" width=32 /> 
+<img src="https://github.com/sh-qups/sh-qups/blob/main/images/logo/notepad.png" width=32 />
+<img src="https://github.com/sh-qups/sh-qups/blob/main/images/logo/netbeans.jpg" width=32 />
+
+<img src="https://github.com/sh-qups/sh-qups/blob/main/images/logo/test%20automation/Cypress.png" width=32 />
 
 <details>
   <summary>My Github Stats</summary>
