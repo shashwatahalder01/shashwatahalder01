@@ -41,7 +41,7 @@ Here are some ideas to get you started:
   <summary>My Github Stats</summary>
   <br>
 <p align="center">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=sh-qups&&show_icons=true&title_color=c095e3&icon_color=95dfe3&text_color=ffffff&bg_color=231f20" alt="Shashwata's Github Stats" alt="Shashwata's Github Status" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=sh-qups&&show_icons=true&title_color=2f80ed&icon_color=2f80ed&text_color=ffffff&bg_color=231f20" alt="Shashwata's Github Stats" alt="Shashwata's Github Status" />
 </p>
 
 
