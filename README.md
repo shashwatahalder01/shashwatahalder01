@@ -64,7 +64,7 @@
 </details>
 
 
-[![](https://raw.githubusercontent.com/vn7n24fzkq/github-profile-summary-cards-example/master/profile-summary-card-output/solarized_dark/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/vn7n24fzkq/github-profile-summary-cards-example/master/profile-summary-card-output/solarized_dark/0-profile-details.svg)](https://github.com/sh-qups/github-profile-summary-cards)
 [![](https://raw.githubusercontent.com/vn7n24fzkq/github-profile-summary-cards-example/master/profile-summary-card-output/solarized_dark/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/vn7n24fzkq/github-profile-summary-cards-example/master/profile-summary-card-output/solarized_dark/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 [![](https://raw.githubusercontent.com/vn7n24fzkq/github-profile-summary-cards-example/master/profile-summary-card-output/solarized_dark/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/vn7n24fzkq/github-profile-summary-cards-example/master/profile-summary-card-output/solarized_dark/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
@@ -75,8 +75,8 @@
 [![](https://raw.githubusercontent.com/koji/koji/master/profile-summary-card-output/solarized_dark/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 [![](https://raw.githubusercontent.com/koji/koji/master/profile-summary-card-output/solarized_dark/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 <!-- <img src="https://github.com/koji/koji/blob/master/output.gif" alt="TouchDesigner" width="200"/> -->
-</div>
-<br/> -->
+<!-- </div>
+<br/> --> 
 
 <!-- <p align="center">
   <a href="https://dev.to/kojikanao"><img src="https://img.shields.io/badge/DEV.TO-%230A0A0A.svg?&style=for-the-badge&logo=dev-dot-to&logoColor=white" />       </a>&nbsp;&nbsp;&nbsp;&nbsp;
@@ -97,10 +97,10 @@
 
 <!-- ## blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Created CLI Tool that Creates/Remove GitHub Labels](https://dev.to/kojikanao/created-cli-tool-that-creates-remove-github-labels-gn5)
+<!-- - [Created CLI Tool that Creates/Remove GitHub Labels](https://dev.to/kojikanao/created-cli-tool-that-creates-remove-github-labels-gn5)
 - [Remove Space/Empty New Line on VSCode with Regex](https://dev.to/kojikanao/remove-space-empty-new-line-on-vscode-with-regex-33bh)
 - [Created Frontend Tools Showcase site with Next.js & Contentful](https://dev.to/kojikanao/created-frontend-tools-showcase-site-with-next-js-contentful-50i0)
 - [Get TikTok video with less than 10 Lines of Python code](https://dev.to/kojikanao/get-tiktok-video-with-less-10-lines-python-code-328o)
 - [Generate Types from Contentful](https://dev.to/kojikanao/generate-types-from-contentful-49p8)
- -->
 
+ -->
