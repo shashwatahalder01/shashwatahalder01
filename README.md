@@ -27,26 +27,7 @@
 <br /> 
 
 ### Languages and Tools:
-<img src="https://github.com/sh-qups/sh-qups/blob/main/images/logo/c.png" width=40 />
-<img src="https://github.com/sh-qups/sh-qups/blob/main/images/logo/c++.png" width=40 />
-<img src="https://github.com/sh-qups/sh-qups/blob/main/images/logo/python.png" width=40 />
-<img src="https://github.com/sh-qups/sh-qups/blob/main/images/logo/java1.png" width=40 />
-<img src="https://github.com/sh-qups/sh-qups/blob/main/images/logo/html1.png" width=40 />
-<img src="https://github.com/sh-qups/sh-qups/blob/main/images/logo/css3.png" width=40 />
-<img src="https://github.com/sh-qups/sh-qups/blob/main/images/logo/bootstrap1.png" width=40 />
-<img src="https://github.com/sh-qups/sh-qups/blob/main/images/logo/js.png" width=40 />
-<img src="https://github.com/sh-qups/sh-qups/blob/main/images/logo/nodejs.png" width=40 />
-<img src="https://github.com/sh-qups/sh-qups/blob/main/images/logo/Expressjs.png" width=40 />
-<img src="https://github.com/sh-qups/sh-qups/blob/main/images/logo/react.png" width=40 />
-<img src="https://github.com/sh-qups/sh-qups/blob/main/images/logo/bootstrap.jfif" width=40 />
-<img src="https://github.com/sh-qups/sh-qups/blob/main/images/logo/bootstrap.png" width = 40 />
-<img src="https://github.com/sh-qups/sh-qups/blob/main/images/logo/android.png" width=40 />
-<img src="https://github.com/sh-qups/sh-qups/blob/main/images/logo/AndroidStudio.png" width=40 />
-<img src="https://github.com/sh-qups/sh-qups/blob/main/images/logo/django.png" width=40 />
-<img src="https://github.com/sh-qups/sh-qups/blob/main/images/logo/django-logo.png" width=40 />
-<img src="https://github.com/sh-qups/sh-qups/blob/main/images/logo/vscode.png" width=40 />
-<img src="https://github.com/sh-qups/sh-qups/blob/main/images/logo/pycharm.jfif" width=40 />
-<img src="https://github.com/sh-qups/sh-qups/blob/main/images/logo/codeblocks.png" width=40 />
+<img src="https://github.com/sh-qups/sh-qups/blob/main/images/logo/c.png" width=45 /><img src="https://github.com/sh-qups/sh-qups/blob/main/images/logo/c++.png" width=40 /><img src="https://github.com/sh-qups/sh-qups/blob/main/images/logo/python.png" width=40 /><img src="https://github.com/sh-qups/sh-qups/blob/main/images/logo/java1.png" width=40 /><img src="https://github.com/sh-qups/sh-qups/blob/main/images/logo/html1.png" width=40 /><img src="https://github.com/sh-qups/sh-qups/blob/main/images/logo/css3.png" width=40 /><img src="https://github.com/sh-qups/sh-qups/blob/main/images/logo/bootstrap1.png" width=40 /><img src="https://github.com/sh-qups/sh-qups/blob/main/images/logo/js.png" width=40 /><img src="https://github.com/sh-qups/sh-qups/blob/main/images/logo/nodejs.png" width=40 /><img src="https://github.com/sh-qups/sh-qups/blob/main/images/logo/Expressjs.png" width=40 /><img src="https://github.com/sh-qups/sh-qups/blob/main/images/logo/react.png" width=40 /><img src="https://github.com/sh-qups/sh-qups/blob/main/images/logo/bootstrap.jfif" width=40 /><img src="https://github.com/sh-qups/sh-qups/blob/main/images/logo/bootstrap.png" width = 40 /><img src="https://github.com/sh-qups/sh-qups/blob/main/images/logo/android.png" width=40 /><img src="https://github.com/sh-qups/sh-qups/blob/main/images/logo/AndroidStudio.png" width=40 /><img src="https://github.com/sh-qups/sh-qups/blob/main/images/logo/django.png" width=40 /><img src="https://github.com/sh-qups/sh-qups/blob/main/images/logo/django-logo.png" width=40 /><img src="https://github.com/sh-qups/sh-qups/blob/main/images/logo/vscode.png" width=40 /><img src="https://github.com/sh-qups/sh-qups/blob/main/images/logo/pycharm.jfif" width=40 /><img src="https://github.com/sh-qups/sh-qups/blob/main/images/logo/codeblocks.png" width=40 />
 
 
 
