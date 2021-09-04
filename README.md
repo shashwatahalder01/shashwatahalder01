@@ -81,4 +81,20 @@
 </p>
 
 
+ 
+[![trophy](https://github-profile-trophy.vercel.app/?username=koji)](https://github.com/ryo-ma/github-profile-trophy) 
+ 
+<div align="center">
+<p></p>
+<img src="https://profile-counter.glitch.me/koji/count.svg" alt="hit counter" align="center">
+</div>
+
+## blog posts
+<!-- BLOG-POST-LIST:START -->
+- [Created CLI Tool that Creates/Remove GitHub Labels](https://dev.to/kojikanao/created-cli-tool-that-creates-remove-github-labels-gn5)
+- [Remove Space/Empty New Line on VSCode with Regex](https://dev.to/kojikanao/remove-space-empty-new-line-on-vscode-with-regex-33bh)
+- [Created Frontend Tools Showcase site with Next.js & Contentful](https://dev.to/kojikanao/created-frontend-tools-showcase-site-with-next-js-contentful-50i0)
+- [Get TikTok video with less than 10 Lines of Python code](https://dev.to/kojikanao/get-tiktok-video-with-less-10-lines-python-code-328o)
+- [Generate Types from Contentful](https://dev.to/kojikanao/generate-types-from-contentful-49p8)
+
 
