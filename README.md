@@ -1,7 +1,8 @@
 ### Hi there . . . !!! 👋
 
 ### This is Shashwata halder, Welcome to my Profile. . .
-![](https://github.com/sh-qups/sh-qups/blob/main/intro_img/intro_img_2.gif)
+![](https://github.com/sh-qups/sh-qups/blob/main/intro_img/intro_img_2.gif
+<img src="https://github.com/sh-qups/sh-qups/blob/main/intro_img/intro_img_2.gif" width=600 hight=350 />)
 <!--
 **sh-qups/sh-qups** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
