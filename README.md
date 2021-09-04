@@ -86,7 +86,7 @@
  
 <div align="center">
 <p></p>
-<img src="https://profile-counter.glitch.me/koji/count.svg" alt="hit counter" align="center">
+<img src="https://profile-counter.glitch.me/sh-qups/count.svg" alt="hit counter" align="center">
 </div>
 
 ## blog posts
