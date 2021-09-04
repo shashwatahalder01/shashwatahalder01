@@ -1,4 +1,4 @@
-### Hi there . . . !!! 👋
+### Hi there(こんにちは) . . . !!! 👋
 
 ### This is Shashwata halder, Welcome to my Profile. . .
 <!-- <img src="https://github.com/sh-qups/sh-qups/blob/main/images/intro_img/intro_img_1.gif" width=500 height=300 /> -->
