@@ -59,7 +59,7 @@
   <summary>My Github Stats</summary>
   <br>
 <p align="center">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=sh-qups&&show_icons=true&title_color=2f80ed&icon_color=2f80ed&text_color=ffffff&bg_color=0D1117" alt="Shashwata's Github Stats" alt="Shashwata's Github Status" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=shashwata-rk&&show_icons=true&title_color=2f80ed&icon_color=2f80ed&text_color=ffffff&bg_color=0D1117" alt="Shashwata's Github Stats" alt="Shashwata's Github Status" />
 </p>
 </details>
 
