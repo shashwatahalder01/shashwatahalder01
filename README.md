@@ -12,8 +12,8 @@
 - 🔭 I’m currently working on automating test cases (UI,API,load)
 - 🌱 I’m currently learning React, Django and Block chain.
 - 👯 I’m looking to collaborate on Django projects
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
+<!-- - 🤔 I’m looking for help with ...
+- 💬 Ask me about ... -->
 - ⚡ Fun fact: I love to watch movies & read books . . .
 
 ### Connect with me:
