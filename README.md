@@ -22,6 +22,14 @@
 [![Instagram](https://img.shields.io/badge/%20-Instagram-black?color=222244&labelColor=000000&logo=instagram&logoColor=ffffff)](https://www.instagram.com/shashwatax001/)
 [![Facebook](https://img.shields.io/badge/%20-Facebook-black?color=222244&labelColor=000000&logo=facebook&logoColor=ffffff)](https://www.facebook.com/shashwata.halder)
 
+<div align="center">
+
+[![](https://raw.githubusercontent.com/koji/koji/master/profile-summary-card-output/solarized_dark/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/koji/koji/master/profile-summary-card-output/solarized_dark/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/koji/koji/master/profile-summary-card-output/solarized_dark/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+<!-- <img src="https://github.com/koji/koji/blob/master/output.gif" alt="TouchDesigner" width="200"/> -->
+</div>
+
 
 <br /> 
 
