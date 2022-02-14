@@ -29,21 +29,17 @@
 
 <!-- - 🤔 I’m looking for help with ... -->
 
-### Connect with me:
-<!-- <br> -->
+<br>
 
+### Connect with me:
 [![LinkedIn Connect](https://img.shields.io/badge/%20-Connect-black?color=222244&labelColor=000000&logo=linkedin&logoColor=f5f7fe)](https://www.linkedin.com/in/shashwata-halder/)
 [![Gmail](https://img.shields.io/badge/%20-Send%20Mail-black?color=222244&labelColor=000000&logo=gmail&logoColor=f5f7fe)](mailto:shashwatahalder01@gmail.com)
 [![Twitter Follow](https://img.shields.io/badge/dynamic/json.svg?color=222244&labelColor=000000&logo=twitter&logoColor=f5f7fe&label=&query=%24[0].followers_count&url=https%3A%2F%2Fcdn.syndication.twimg.com%2Fwidgets%2Ffollowbutton%2Finfo.json%3Fscreen_names%3Drashadtanjim&suffix=%20Followers)](https://twitter.com/shashwata_rk)
 [![Instagram](https://img.shields.io/badge/%20-Instagram-black?color=222244&labelColor=000000&logo=instagram&logoColor=ffffff)](https://www.instagram.com/shashwatax001/)
 [![Facebook](https://img.shields.io/badge/%20-Facebook-black?color=222244&labelColor=000000&logo=facebook&logoColor=ffffff)](https://www.facebook.com/shashwata.halder)
 
-<br>
+<!-- <br> -->
  
-
-
-
-
 ### Languages and Tools:
 <img src="https://github.com/shashwatahalder01/shashwatahalder01/blob/main/images/logo/c.png" width=45 /><img src="https://github.com/shashwatahalder01/shashwatahalder01/blob/main/images/logo/c++.png" width=36 /><img src="https://github.com/shashwatahalder01/shashwatahalder01/blob/main/images/logo/python.png" width=40 /><img src="https://github.com/shashwatahalder01/shashwatahalder01/blob/main/images/logo/java1.png" width=40 /><img src="https://github.com/shashwatahalder01/shashwatahalder01/blob/main/images/logo/html1.png" width=40 /><img src="https://github.com/shashwatahalder01/shashwatahalder01/blob/main/images/logo/css3.png" width=40 /><img src="https://github.com/shashwatahalder01/shashwatahalder01/blob/main/images/logo/bootstrap1.png" width=40 /><img src="https://github.com/shashwatahalder01/shashwatahalder01/blob/main/images/logo/js.png" width=40 /><img src="https://github.com/shashwatahalder01/shashwatahalder01/blob/main/images/logo/nodejs.png" width=90 height=40 /><img src="https://github.com/shashwatahalder01/shashwatahalder01/blob/main/images/logo/Expressjs.png" width=80 height=40 /><img src="https://github.com/shashwatahalder01/shashwatahalder01/blob/main/images/logo/react.png" width=40 /><img src="https://github.com/shashwatahalder01/shashwatahalder01/blob/main/images/logo/android.png" width=40 /><img src="https://github.com/shashwatahalder01/shashwatahalder01/blob/main/images/logo/django-logo.png" width=80 height=40 /><img src="https://github.com/shashwatahalder01/shashwatahalder01/blob/main/images/logo/vscode.png" width=50 height=40 /><img src="https://github.com/shashwatahalder01/shashwatahalder01/blob/main/images/logo/pycharm.jfif" width=40 /><img src="https://github.com/shashwatahalder01/shashwatahalder01/blob/main/images/logo/AndroidStudio.png" width=40 /><img src="https://github.com/shashwatahalder01/shashwatahalder01/blob/main/images/logo/database/mysql.png" width=80 height=40 /><img src="https://github.com/shashwatahalder01/shashwatahalder01/blob/main/images/logo/database/oracle.png" width=80 height=40 /><img src="https://github.com/shashwatahalder01/shashwatahalder01/blob/main/images/logo/database/MongoDB-Logo.png" width=80 height=40 />
 <!-- <img src="https://github.com/shashwatahalder01/shashwatahalder01/blob/main/images/logo/database/neo4j.png" width=80 height=40 /> -->
@@ -112,13 +108,15 @@
 
 <!-- ## [github](./github/README.md) -->
 
-<!-- <p align="center" > -->
+
+
+<p align="center" >
 
 [![](https://raw.githubusercontent.com/shashwatahalder01/shashwatahalder01/main/profile-summary-card-output/github/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 [![](https://raw.githubusercontent.com/shashwatahalder01/shashwatahalder01/main/profile-summary-card-output/github/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/shashwatahalder01/shashwatahalder01/main/profile-summary-card-output/github/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 [![](https://raw.githubusercontent.com/shashwatahalder01/shashwatahalder01/main/profile-summary-card-output/github/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/shashwatahalder01/shashwatahalder01/main/profile-summary-card-output/github/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
-<!-- <p> -->
+<p>
 
 <!-- <p align="left" ><img src="https://github-readme-stats.vercel.app/api/top-langs?username=shashwatahalder01&show_icons=true&locale=en&layout=compact" alt="ShashwataHalder" /></p> -->
 
