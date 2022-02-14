@@ -1,6 +1,8 @@
-### Hi 👋 こんにちは
+<h1 align="center">Hi 👋, I'm Shashwata halder</h1>
+<h3 align="center">Welcome to my Profile. . .</h3>
+<!-- ### Hi 👋 こんにちは -->
+<!-- ### This is Shashwata halder, Welcome to my Profile. . . -->
 
-### This is Shashwata halder, Welcome to my Profile. . .
 <!-- <img src="https://github.com/shashwatahalder01/shashwatahalder01/blob/main/images/intro_img/intro_img_1.gif" width=500 height=300 /> -->
 <!-- <img src="https://github.com/shashwatahalder01/shashwatahalder01/blob/main/images/intro_img/intro_img_2.gif" width=500 height=300 /> -->
 <!-- <img src="https://github.com/shashwatahalder01/shashwatahalder01/blob/main/images/intro_img/intro_img_3.gif" width=500 height=300 /> -->
