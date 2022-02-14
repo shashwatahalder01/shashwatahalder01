@@ -13,7 +13,7 @@
 </p>
 <br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shashwatahalder01&label=Profile%20views&color=222244&style=flat" alt="ShashwataHalder" /> </p>
-<br>
+<!-- <br> -->
 
 - 🔭 I’m currently working on automating test cases (UI,API,load)
 
@@ -30,7 +30,7 @@
 <!-- - 🤔 I’m looking for help with ... -->
 
 ### Connect with me:
-<br>
+<!-- <br> -->
 
 [![LinkedIn Connect](https://img.shields.io/badge/%20-Connect-black?color=222244&labelColor=000000&logo=linkedin&logoColor=f5f7fe)](https://www.linkedin.com/in/shashwata-halder/)
 [![Gmail](https://img.shields.io/badge/%20-Send%20Mail-black?color=222244&labelColor=000000&logo=gmail&logoColor=f5f7fe)](mailto:shashwatahalder01@gmail.com)
@@ -41,9 +41,7 @@
 <br>
  
 
-[![](https://raw.githubusercontent.com/shashwatahalder01/sh/master/profile-summary-card-output/github_dark/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/shashwatahalder01/sh/master/profile-summary-card-output/github_dark/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/shashwatahalder01/sh/master/profile-summary-card-output/github_dark/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/shashwatahalder01/sh/master/profile-summary-card-output/github_dark/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/shashwatahalder01/sh/master/profile-summary-card-output/github_dark/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+
 
 
 ### Languages and Tools:
@@ -84,33 +82,61 @@
 
 [comment]: <> (<img src="https://github.com/shashwatahalder01/shashwatahalder01/blob/main/images/logo/python1.png" width=32 />)
 
-<details>
+<!-- <details>
   <summary>My Github Stats</summary>
   <br>
 <p align="center">
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=shashwata-rk&&show_icons=true&title_color=2f80ed&icon_color=2f80ed&text_color=ffffff&bg_color=0D1117" alt="Shashwata's Github Stats" alt="Shashwata's Github Status" />
 </p>
-</details>
+</details> -->
 
-<p align="center" ><img src="https://github-readme-stats.vercel.app/api/top-langs?username=shashwatahalder01&show_icons=true&locale=en&layout=compact" alt="ShashwataHalder" /></p>
+<!-- ## [default](./default/README.md)
+[![](https://raw.githubusercontent.com/shashwatahalder01/shashwatahalder01/main/profile-summary-card-output/default/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/shashwatahalder01/shashwatahalder01/main/profile-summary-card-output/default/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/shashwatahalder01/shashwatahalder01/main/profile-summary-card-output/default/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/shashwatahalder01/shashwatahalder01/main/profile-summary-card-output/default/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/shashwatahalder01/shashwatahalder01/main/profile-summary-card-output/default/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+
+## [vue](./vue/README.md)
+[![](https://raw.githubusercontent.com/shashwatahalder01/shashwatahalder01/main/profile-summary-card-output/vue/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/shashwatahalder01/shashwatahalder01/main/profile-summary-card-output/vue/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/shashwatahalder01/shashwatahalder01/main/profile-summary-card-output/vue/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/shashwatahalder01/shashwatahalder01/main/profile-summary-card-output/vue/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/shashwatahalder01/shashwatahalder01/main/profile-summary-card-output/vue/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+
+## [nord_bright](./nord_bright/README.md)
+[![](https://raw.githubusercontent.com/shashwatahalder01/shashwatahalder01/main/profile-summary-card-output/nord_bright/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/shashwatahalder01/shashwatahalder01/main/profile-summary-card-output/nord_bright/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/shashwatahalder01/shashwatahalder01/main/profile-summary-card-output/nord_bright/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/shashwatahalder01/shashwatahalder01/main/profile-summary-card-output/nord_bright/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/shashwatahalder01/shashwatahalder01/main/profile-summary-card-output/nord_bright/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+
+## [nord_dark](./nord_dark/README.md)
+[![](https://raw.githubusercontent.com/shashwatahalder01/shashwatahalder01/main/profile-summary-card-output/nord_dark/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/shashwatahalder01/shashwatahalder01/main/profile-summary-card-output/nord_dark/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/shashwatahalder01/shashwatahalder01/main/profile-summary-card-output/nord_dark/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/shashwatahalder01/shashwatahalder01/main/profile-summary-card-output/nord_dark/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/shashwatahalder01/shashwatahalder01/main/profile-summary-card-output/nord_dark/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) -->
+
+<!-- ## [github](./github/README.md) -->
+
+<!-- <p align="center" > -->
+
+[![](https://raw.githubusercontent.com/shashwatahalder01/shashwatahalder01/main/profile-summary-card-output/github/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/shashwatahalder01/shashwatahalder01/main/profile-summary-card-output/github/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/shashwatahalder01/shashwatahalder01/main/profile-summary-card-output/github/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/shashwatahalder01/shashwatahalder01/main/profile-summary-card-output/github/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/shashwatahalder01/shashwatahalder01/main/profile-summary-card-output/github/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+
+<!-- <p> -->
+
+<!-- <p align="left" ><img src="https://github-readme-stats.vercel.app/api/top-langs?username=shashwatahalder01&show_icons=true&locale=en&layout=compact" alt="ShashwataHalder" /></p> -->
+
+<br/> 
+<!-- 
+<p align="center"  ><img src="https://github-readme-stats.vercel.app/api?username=shashwatahalder01&show_icons=true&locale=en" alt="ShashwataHalder" /></p> -->
 
 <br/> 
 
-<p align="center"  ><img src="https://github-readme-stats.vercel.app/api?username=shashwatahalder01&show_icons=true&locale=en" alt="ShashwataHalder" /></p>
+<p align="center" ><img  src="https://github-readme-streak-stats.herokuapp.com/?user=shashwatahalder01&theme=github-light&date_format=M%20j%5B%2C%20Y%5D" alt="ShashwataHalder" /></p>
 
 <br/> 
 
-<p align="center" ><img  src="https://github-readme-streak-stats.herokuapp.com/?user=shashwatahalder01&" alt="ShashwataHalder" /></p>
-`
-
-
-<br/> 
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=shashwatahalder01&theme=nord&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
+<!-- [![trophy](https://github-profile-trophy.vercel.app/?username=shashwatahalder01&theme=nord&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy) -->
  
-<br>
+<!-- <br>
 <p align="center" >
 <img src="https://profile-counter.glitch.me/sh-shashwatahalder01/count.svg" alt="hit counter" >
 </p>
 
-
+ -->
