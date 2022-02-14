@@ -29,7 +29,7 @@
 
 <!-- - 🤔 I’m looking for help with ... -->
 
-<br>
+<!-- <br> -->
 
 ### Connect with me:
 [![LinkedIn Connect](https://img.shields.io/badge/%20-Connect-black?color=222244&labelColor=000000&logo=linkedin&logoColor=f5f7fe)](https://www.linkedin.com/in/shashwata-halder/)
