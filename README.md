@@ -1,29 +1,44 @@
 <h1 align="center">Hi 👋, I'm Shashwata halder</h1>
-<h3 align="center">Welcome to my Profile. . .</h3>
+<h3 align="center">Welcome to My Profile 👤 . . . </h3>
 <!-- ### Hi 👋 こんにちは -->
 <!-- ### This is Shashwata halder, Welcome to my Profile. . . -->
 
 <!-- <img src="https://github.com/shashwatahalder01/shashwatahalder01/blob/main/images/intro_img/intro_img_1.gif" width=500 height=300 /> -->
 <!-- <img src="https://github.com/shashwatahalder01/shashwatahalder01/blob/main/images/intro_img/intro_img_2.gif" width=500 height=300 /> -->
 <!-- <img src="https://github.com/shashwatahalder01/shashwatahalder01/blob/main/images/intro_img/intro_img_3.gif" width=500 height=300 /> -->
-<img src="https://github.com/shashwatahalder01/shashwatahalder01/blob/main/images/intro_img/intro_img_4.gif" width=500 height=300 />
-<!--
-**sh-qups/sh-qups** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
+
+
+<p align="center">
+<img src="https://github.com/shashwatahalder01/shashwatahalder01/blob/main/images/intro_img/intro_img_4.gif" width=400 height=250 />
+</p>
+<br>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=shashwatahalder01&label=Profile%20views&color=222244&style=flat" alt="ShashwataHalder" /> </p>
+<br>
 
 - 🔭 I’m currently working on automating test cases (UI,API,load)
-- 🌱 I’m currently learning React, Django and Block chain.
-- 👯 I’m looking to collaborate on Django projects
-- ⚡ Fun fact: I love to watch movies & read books . . .
-<!-- - 🤔 I’m looking for help with ...
-- 💬 Ask me about ... -->
+
+- 🌱 I’m currently learning Jest, Puppeteer, Cucumber, Gherkin
+
+- 👯 I’m looking to collaborate on automation projects
+
+- 💬 Ask me about Selenium, WebdriverIo, Appium
+
+- 📫 How to reach me **shashwatahalder01@gmail.com**
+
+<!-- - ⚡ Fun fact: I love to watch movies & read books . . . -->
+
+<!-- - 🤔 I’m looking for help with ... -->
+
 ### Connect with me:
+<br>
+
 [![LinkedIn Connect](https://img.shields.io/badge/%20-Connect-black?color=222244&labelColor=000000&logo=linkedin&logoColor=f5f7fe)](https://www.linkedin.com/in/shashwata-halder/)
 [![Gmail](https://img.shields.io/badge/%20-Send%20Mail-black?color=222244&labelColor=000000&logo=gmail&logoColor=f5f7fe)](mailto:shashwatahalder01@gmail.com)
 [![Twitter Follow](https://img.shields.io/badge/dynamic/json.svg?color=222244&labelColor=000000&logo=twitter&logoColor=f5f7fe&label=&query=%24[0].followers_count&url=https%3A%2F%2Fcdn.syndication.twimg.com%2Fwidgets%2Ffollowbutton%2Finfo.json%3Fscreen_names%3Drashadtanjim&suffix=%20Followers)](https://twitter.com/shashwata_rk)
 [![Instagram](https://img.shields.io/badge/%20-Instagram-black?color=222244&labelColor=000000&logo=instagram&logoColor=ffffff)](https://www.instagram.com/shashwatax001/)
 [![Facebook](https://img.shields.io/badge/%20-Facebook-black?color=222244&labelColor=000000&logo=facebook&logoColor=ffffff)](https://www.facebook.com/shashwata.halder)
 
+<br>
  
 
 [![](https://raw.githubusercontent.com/shashwatahalder01/sh/master/profile-summary-card-output/github_dark/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
@@ -77,54 +92,25 @@
 </p>
 </details>
 
+<p align="center" ><img src="https://github-readme-stats.vercel.app/api/top-langs?username=shashwatahalder01&show_icons=true&locale=en&layout=compact" alt="ShashwataHalder" /></p>
 
-<!-- [![](https://raw.githubusercontent.com/vn7n24fzkq/github-profile-summary-cards-example/master/profile-summary-card-output/solarized_dark/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/vn7n24fzkq/github-profile-summary-cards-example/master/profile-summary-card-output/solarized_dark/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) 
-[![](https://raw.githubusercontent.com/vn7n24fzkq/github-profile-summary-cards-example/master/profile-summary-card-output/solarized_dark/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/vn7n24fzkq/github-profile-summary-cards-example/master/profile-summary-card-output/solarized_dark/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/vn7n24fzkq/github-profile-summary-cards-example/master/profile-summary-card-output/solarized_dark/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
- -->
+<br/> 
 
+<p align="center"  ><img src="https://github-readme-stats.vercel.app/api?username=shashwatahalder01&show_icons=true&locale=en" alt="ShashwataHalder" /></p>
 
+<br/> 
 
-<!-- [![](https://raw.githubusercontent.com/sh-qups/sh-qups/github-profile-summary-cards-example/master/profile-summary-card-output/solarized_dark/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/sh-qups/sh-qups/github-profile-summary-cards-example/master/profile-summary-card-output/solarized_dark/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/sh-qups/sh-qups/github-profile-summary-cards-example/master/profile-summary-card-output/solarized_dark/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/sh-qups/sh-qups/github-profile-summary-cards-example/master/profile-summary-card-output/solarized_dark/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
- -->
+<p align="center" ><img  src="https://github-readme-streak-stats.herokuapp.com/?user=shashwatahalder01&" alt="ShashwataHalder" /></p>
+`
 
 
+<br/> 
 
-<!-- [![](https://raw.githubusercontent.com/koji/koji/master/profile-summary-card-output/solarized_dark/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/koji/koji/master/profile-summary-card-output/solarized_dark/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/koji/koji/master/profile-summary-card-output/solarized_dark/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-<!-- <img src="https://github.com/koji/koji/blob/master/output.gif" alt="TouchDesigner" width="200"/> -->
-<!-- </div>
-<br/> --> 
-
-<!-- <p align="center">
-  <a href="https://dev.to/kojikanao"><img src="https://img.shields.io/badge/DEV.TO-%230A0A0A.svg?&style=for-the-badge&logo=dev-dot-to&logoColor=white" />       </a>&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://twitter.com/koji_kanao"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
- <a href="https://www.linkedin.com/in/kojikanao/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="mailto:kojikanao503@gmail.com?subject=Came%20from%20Github"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
- <a href="https://koji-kanao.medium.com/"><img src="https://img.shields.io/badge/medium-%2304EA05.svg?&style=for-the-badge&logo=medium&logoColor=white" />       </a>&nbsp;&nbsp;&nbsp;&nbsp;
+[![trophy](https://github-profile-trophy.vercel.app/?username=shashwatahalder01&theme=nord&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
+ 
+<br>
+<p align="center" >
+<img src="https://profile-counter.glitch.me/sh-shashwatahalder01/count.svg" alt="hit counter" >
 </p>
- -->
 
- 
-<!-- [![trophy](https://github-profile-trophy.vercel.app/?username=koji)](https://github.com/ryo-ma/github-profile-trophy)  -->
- 
-<div align="center">
-<p></p>
-<img src="https://profile-counter.glitch.me/sh-qups/count.svg" alt="hit counter" align="center">
-</div>
 
-<!-- ## blog posts
-<!-- BLOG-POST-LIST:START -->
-<!-- - [Created CLI Tool that Creates/Remove GitHub Labels](https://dev.to/kojikanao/created-cli-tool-that-creates-remove-github-labels-gn5)
-- [Remove Space/Empty New Line on VSCode with Regex](https://dev.to/kojikanao/remove-space-empty-new-line-on-vscode-with-regex-33bh)
-- [Created Frontend Tools Showcase site with Next.js & Contentful](https://dev.to/kojikanao/created-frontend-tools-showcase-site-with-next-js-contentful-50i0)
-- [Get TikTok video with less than 10 Lines of Python code](https://dev.to/kojikanao/get-tiktok-video-with-less-10-lines-python-code-328o)
-- [Generate Types from Contentful](https://dev.to/kojikanao/generate-types-from-contentful-49p8)
-
- -->
