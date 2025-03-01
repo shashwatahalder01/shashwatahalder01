@@ -114,7 +114,7 @@
 <div align="center">
 
   <!-- First card taking full width -->
-  <img src="https://raw.githubusercontent.com/shashwatahalder01/shashwatahalder01/main/profile-summary-card-output/github/0-profile-details.svg" width="90%">
+  <img src="https://raw.githubusercontent.com/shashwatahalder01/shashwatahalder01/main/profile-summary-card-output/github/0-profile-details.svg" width="95%">
 
   <!-- Other 4 cards in a single row -->
   <div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 10px;">
@@ -128,7 +128,7 @@
 
 </br>
 
-<div align="center" ><img  src="https://github-readme-streak-stats.herokuapp.com/?user=shashwatahalder01&theme=github-light&date_format=M%20j%5B%2C%20Y%5D" alt="ShashwataHalder" width="80%" height="auto"/></div>
+<div align="center" ><img  src="https://github-readme-streak-stats.herokuapp.com/?user=shashwatahalder01&theme=github-light&date_format=M%20j%5B%2C%20Y%5D" alt="ShashwataHalder" width="50%" height="auto"/></div>
 
 
 <!-- <div align="center" >
